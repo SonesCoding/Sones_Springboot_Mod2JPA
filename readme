@@ -1,0 +1,15 @@
+- Near the end of me working on this project, I figure something is wrong with my pom.xml. This certainly isn't a running project anymore.
+
+I fidgeted with JPA which was honestly, probably a mistake on my part. I messed with the joincolumns and figuring out how to make them relational,
+but found more success with this tutorial and the help of it.
+
+https://spring.io/guides/gs/accessing-data-jpa/
+
+I learned a lot about what I need to do to flesh out a full database. I added a couple of pages but all the JPA data is displayed in the terminal. 
+
+https://www.geeksforgeeks.org/spring-boot-how-to-access-database-using-spring-data-jpa/?ref=lbp
+
+https://www.springboottutorial.com/hibernate-jpa-tutorial-with-spring-boot-starter-jpa
+
+
+There are some major differences in JPA and JDBC.
